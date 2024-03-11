@@ -311,6 +311,6 @@ try-finally로 작성하면 코드 지저분해지는 경우라도 try-with-reso
 
 ## 📍 references
 
-- [try-finally]([https://velog.io/@idkwhattodo/Java-예외처리-throw-try-catch-finally](https://velog.io/@idkwhattodo/Java-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-throw-try-catch-finally))
+- [try-finally](https://velog.io/@idkwhattodo/Java-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-throw-try-catch-finally)
 - [try-with-resources 1](https://ryan-han.com/post/java/try_with_resources/)
 - [try-with-resources 2](https://mangkyu.tistory.com/217)

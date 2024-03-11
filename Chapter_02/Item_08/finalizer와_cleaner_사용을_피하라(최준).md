@@ -730,12 +730,12 @@ public class Adult {
 ## 📍 references
 
 - [finalizer & cleaner](https://olrlobt.tistory.com/76)
-- [System.gc]([https://velog.io/@jsj3282/17.-도대체-GC는-언제-발생할까](https://velog.io/@jsj3282/17.-%EB%8F%84%EB%8C%80%EC%B2%B4-GC%EB%8A%94-%EC%96%B8%EC%A0%9C-%EB%B0%9C%EC%83%9D%ED%95%A0%EA%B9%8C))
+- [System.gc](https://velog.io/@jsj3282/17.-%EB%8F%84%EB%8C%80%EC%B2%B4-GC%EB%8A%94-%EC%96%B8%EC%A0%9C-%EB%B0%9C%EC%83%9D%ED%95%A0%EA%B9%8C)
 - [System.runFinalization 1](https://codedragon.tistory.com/4608)
 - [System.runFinalization 2](https://docs.oracle.com/javase/8/docs/api/java/lang/System.html)
 - [System.runFinalizersOnExit](https://docs.oracle.com/javase/8/docs/api/java/lang/System.html)
-- [Runtime.runRinalizersOnExit]([https://docs.oracle.com/javase/7/docs/api/java/lang/Runtime.html#runFinalizersOnExit(boolean)](https://docs.oracle.com/javase/7/docs/api/java/lang/Runtime.html#runFinalizersOnExit(boolean)))
-- [AutoCloseable 1]([https://velog.io/@sa1341/AutoCloseable-클래스](https://velog.io/@sa1341/AutoCloseable-%ED%81%B4%EB%9E%98%EC%8A%A4))
+- [Runtime.runRinalizersOnExit](https://docs.oracle.com/javase/7/docs/api/java/lang/Runtime.html#runFinalizersOnExit(boolean))
+- [AutoCloseable 1](https://velog.io/@sa1341/AutoCloseable-%ED%81%B4%EB%9E%98%EC%8A%A4)
 - [AutoCloseable 2](https://hyoj.github.io/blog/java/basic/java7-autocloseable.html#method-detail)
 - [finalizer 공격](https://yangbongsoo.tistory.com/8)
 - [네이티브 메소드 1](https://roughexistence.tistory.com/81)
