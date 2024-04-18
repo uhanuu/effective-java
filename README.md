@@ -191,10 +191,10 @@
    
 ### 💎 발표자료
 
-<img width="500px" alt="item 16 김형주 썸네일" src="https://i9.ytimg.com/vi_webp/yVM4uy3_ddM/mqdefault.webp?v=66028b0c&sqp=CITV_rAG&rs=AOn4CLA7ZwMzZ7rtMz8FusA-G7lmO9te5Q"> | <img width="500px" alt="item 17 강철원 썸네일" src="https://i9.ytimg.com/vi_webp/O8BmpyfDlRE/mqdefault.webp?v=66028d78&sqp=CITV_rAG&rs=AOn4CLDpfInzcc4Td5AxyNttKehojAsj7w"> 
+<img width="500px" alt="item 16 김형주 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/9e9d4463-3fd1-4c06-8d6e-8a5f04438794"> | <img width="500px" alt="item 17 강철원 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/ec276d94-ec3c-4eb2-b0b8-1805b34584c5"> 
 | :---: | :---: |
 |[📚 Item 16 public 클래스에서는 public 필드가 아닌 접근자 메서드 사용하라] <br> [🎥 Item 16 발표 영상] | [📚 Item 17 변경 가능성을 최소화 하라 (1)] <br> [🎥 Item 17 발표 영상 (1)] <br> <강철원> |
-<img width="500px" alt="Item 17 최준 썸네일" src="https://i9.ytimg.com/vi_webp/-BhTe4ET_LY/mqdefault.webp?v=6603e1a9&sqp=CITV_rAG&rs=AOn4CLCSq97rpM1HHr53B4DviukBKr_4KQ"> | <img width="500px" alt="Item 18 유현우 썸네일" src="https://i9.ytimg.com/vi_webp/jT1xblS1lfk/mqdefault.webp?v=6603e2e4&sqp=CITV_rAG&rs=AOn4CLBIvjy1Bx3P6SxxQRqhW6Su465nVw">
+<img width="500px" alt="Item 17 최준 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/55d8a5de-63ea-4d23-aa3b-c09bf31464d6"> | <img width="500px" alt="Item 18 유현우 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/b9bf0c2a-a6d7-4698-814c-0ebc351f7cd2">
 |[📚 Item 17 변경 가능성을 최소화 하라 (2)] <br> [🎥 Item 17 발표 영상 (2)] <br> <최준> | [📚 Item 18 상속보다는 컴포지션을 사용하라] <br> [🎥 Item 18 발표 영상] |
 
 [📚 Item 16 public 클래스에서는 public 필드가 아닌 접근자 메서드 사용하라]: https://github.com/Growth-Hub/Effective-Java/blob/main/Chapter_04/Item_16/public_%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90%EC%84%9C%EB%8A%94_public_%ED%95%84%EB%93%9C%EA%B0%80_%EC%95%84%EB%8B%8C_%EC%A0%91%EA%B7%BC%EC%9E%90_%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC_%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC(%EA%B9%80%ED%98%95%EC%A3%BC).md
@@ -220,10 +220,10 @@
    
 ### 💎 발표자료
 
-<img width="500px" alt="item 19 김형주 썸네일" src="https://i9.ytimg.com/vi/8Ztbwx137Ss/mqdefault.jpg?v=660d2aa5&sqp=CITV_rAG&rs=AOn4CLBNtnLVpR5D8FVWHZ0YE3Pt21mqMA"> | <img width="500px" alt="item 20 강철원 썸네일" src="https://i9.ytimg.com/vi/XHFRnNnG9uc/mqdefault.jpg?v=660d4217&sqp=CITV_rAG&rs=AOn4CLAdLtOL-lOGTJjwY1IfbVMqZxlGIg"> 
+<img width="500px" alt="item 19 김형주 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/36323414-a918-46cf-bfb7-620cd5de511e"> | <img width="500px" alt="item 20 강철원 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/33bb1c6f-246c-4b7a-913c-b20d5179c60a"> 
 | :---: | :---: |
 |[📚 Item 19 상속을 고려해 설계하고 문서화 하라. 그러지 않았다면 상속을 금지하라] <br> [🎥 Item 19 발표 영상] | [📚 Item 20 추상 클래스보다는 인터페이스를 우선하라 (1)] <br> [🎥 Item 20 발표 영상 (1)] <br> <강철원> |
-<img width="500px" alt="Item 20 유현우 썸네일" src="https://i9.ytimg.com/vi_webp/wlvDAOdppLE/mqdefault.webp?v=660bc7db&sqp=CITV_rAG&rs=AOn4CLCe0m86h57cWZtHI2izHxZjZpZrjg"> | <img width="500px" alt="Item 21 최준 썸네일" src="https://i9.ytimg.com/vi_webp/7hdk8qMRvr0/mqdefault.webp?v=660bc9db&sqp=CITV_rAG&rs=AOn4CLCLtMt73DxtNHAxbYQVHld68zKD0Q">
+<img width="500px" alt="Item 20 유현우 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/f06126a2-8f47-4530-8879-ac631b99d65c"> | <img width="500px" alt="Item 21 최준 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/acf8450a-36dd-4278-a3ef-3a231fa338ce">
 |[📚 Item 20 추상 클래스보다는 인터페이스를 우선하라 (2)] <br> [🎥 Item 20 발표 영상 (2)] <br> <유현우> | [📚 Item 21 인터페이스는 구현하는 쪽을 생각해 설계하라] <br> [🎥 Item 21 발표 영상] |
 
 [📚 Item 19 상속을 고려해 설계하고 문서화 하라. 그러지 않았다면 상속을 금지하라]: https://github.com/Growth-Hub/Effective-Java/blob/main/Chapter_04/Item_19/%EC%83%81%EC%86%8D%EC%9D%84_%EA%B3%A0%EB%A0%A4%ED%95%B4_%EC%84%A4%EA%B3%84%ED%95%98%EA%B3%A0_%EB%AC%B8%EC%84%9C%ED%99%94%ED%95%98%EB%9D%BC_%EA%B7%B8%EB%9F%AC%EC%A7%80_%EC%95%8A%EC%95%98%EB%8B%A4%EB%A9%B4_%EC%83%81%EC%86%8D%EC%9D%84_%EA%B8%88%EC%A7%80%ED%95%98%EB%9D%BC(%EA%B9%80%ED%98%95%EC%A3%BC).md
@@ -250,10 +250,10 @@
    
 ### 💎 발표자료
 
-<img width="500px" alt="item 22 강철원 썸네일" src="https://i9.ytimg.com/vi_webp/3VOy-imksrs/mqdefault.webp?v=6614fe6d&sqp=CITV_rAG&rs=AOn4CLBxEf3k51fXpDlxZq1KwWmC0Pkzwg"> | <img width="500px" alt="item 23 최준 썸네일" src="https://i9.ytimg.com/vi_webp/V1q4p6rc8Po/mqdefault.webp?v=66164f21&sqp=CITV_rAG&rs=AOn4CLC5jhzEqfttmHzIHbW8HelN8p0Ukg"> 
+<img width="500px" alt="item 22 강철원 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/524c09f5-063d-4ff2-84b0-61f4df062d2c"> | <img width="500px" alt="item 23 최준 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/8224ad0d-60dd-4a7a-87f2-abaaa296f2a6"> 
 | :---: | :---: |
 |[📚 Item 22 인터페이스는 타입을 정의하는 용도로만 사용하라] <br> [🎥 Item 22 발표 영상] | [📚 Item 23 태그 달린 클래스보다는 클래스 계층구조를 활용하라] <br> [🎥 Item 23 발표 영상] |
-<img width="500px" alt="Item 24 김형주 썸네일" src="https://i9.ytimg.com/vi_webp/LyUjNjPzgyo/mqdefault.webp?v=66150034&sqp=CITV_rAG&rs=AOn4CLD528ZBVBKu4uYgG6t8Cek7FkHyrw"> | <img width="500px" alt="Item 24 유현우 썸네일" src="https://i9.ytimg.com/vi_webp/Ta0DsWN_hio/mqdefault.webp?v=661653a7&sqp=CITV_rAG&rs=AOn4CLC_Ty7m_ULO8TOwg0C9PZsz_4d6aw">
+<img width="500px" alt="Item 24 김형주 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/c723e12f-83e0-4094-92cc-513c1a31f3a6"> | <img width="500px" alt="Item 24 유현우 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/3dc83044-ab1b-4f2f-aed2-b4444bf3b452">
 |[📚 Item 24 멤버 클래스는 되도록 static으로 만들라 (1)] <br> [🎥 Item 24 발표 영상 (1)] <br> <김형주> | [📚 Item 24 멤버 클래스는 되도록 static으로 만들라 (2)] <br> [🎥 Item 24 발표 영상 (2)] <br> <유현우> |
 
 [📚 Item 22 인터페이스는 타입을 정의하는 용도로만 사용하라]: https://github.com/Growth-Hub/Effective-Java/blob/main/Chapter_04/Item_22/%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%8A%94_%ED%83%80%EC%9E%85%EC%9D%84_%EC%A0%95%EC%9D%98%ED%95%98%EB%8A%94_%EC%9A%A9%EB%8F%84%EB%A1%9C%EB%A7%8C_%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC(%EA%B0%95%EC%B2%A0%EC%9B%90).md
@@ -279,10 +279,10 @@
    
 ### 💎 발표자료
 
-<img width="500px" alt="item 25 유현우 썸네일" src="https://i9.ytimg.com/vi_webp/LZBdx5ZQaso/mqdefault.webp?v=661e6d49&sqp=CJDq_rAG&rs=AOn4CLBe1UgSV-YtZZh4gHDjMHn9guy1Cg"> | <img width="500px" alt="item 26 김형주 썸네일" src="https://i9.ytimg.com/vi_webp/sj_ihSjNOyA/mqdefault.webp?v=661fb3d0&sqp=CJDq_rAG&rs=AOn4CLD8Q3iGKS7p8oZjDdWaZ7PNUXMj3w"> 
+<img width="500px" alt="item 25 유현우 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/4bf33fa6-00fe-41b0-9f5b-83bfecd490c3"> | <img width="500px" alt="item 26 김형주 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/5ecd881b-87c4-490d-85bc-c97aa0d315f4"> 
 | :---: | :---: |
 |[📚 Item 25 톱레벨 클래스는 한 파일에 하나만 담으라] <br> [🎥 Item 25 발표 영상] | [📚 Item 26 로 타입은 사용하지 말라 (1)] <br> [🎥 Item 26 발표 영상 (1)] <br> <김형주> |
-<img width="500px" alt="Item 26 최준 썸네일" src="https://i9.ytimg.com/vi/Ah2Qv__HhA8/mqdefault.jpg?v=661e6df8&sqp=CJDq_rAG&rs=AOn4CLBohBo3P1Z2WVkIpVlvuDkzhD2elQ"> | <img width="500px" alt="Item 27 강철원 썸네일" src="https://i9.ytimg.com/vi_webp/A8f7o50MZOM/mqdefault.webp?v=661fb524&sqp=CJDq_rAG&rs=AOn4CLCztWue_l5NR2wntZKPqmmWcRiTgA">
+<img width="500px" alt="Item 26 최준 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/5f9dc465-dff1-4662-8735-c415d4641fd8"> | <img width="500px" alt="Item 27 강철원 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/84f445dc-1a6e-4d8f-81da-b3797ded7377">
 |[📚 Item 26 로 타입은 사용하지 말라 (2)] <br> [🎥 Item 26 발표 영상 (2)] <br> <최준> | [📚 Item 27 비검사 경고를 제거하라] <br> [🎥 Item 27 발표 영상] |
 
 [📚 Item 25 톱레벨 클래스는 한 파일에 하나만 담으라]: https://github.com/Growth-Hub/Effective-Java/blob/main/Chapter_04/Item_25/%ED%86%B1%EB%A0%88%EB%B2%A8_%ED%81%B4%EB%9E%98%EC%8A%A4%EB%8A%94_%ED%95%9C_%ED%8C%8C%EC%9D%BC%EC%97%90_%ED%95%98%EB%82%98%EB%A7%8C_%EB%8B%B4%EC%9C%BC%EB%9D%BC(%EC%9C%A0%ED%98%84%EC%9A%B0).md
