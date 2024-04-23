@@ -298,3 +298,23 @@
 [🎥 Item 27 발표 영상]: https://youtu.be/A8f7o50MZOM
 
 ---
+<br>
+
+## **10주차** ( 4 / 15 ~ 4 / 21 )
+
+> | Item 28 | Item 29 |
+> | :-:| :-: |
+> | 유현우 | 김형주 |
+
+### 💎 발표자료
+<img width="500px" alt="item 28 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/6e150b6e-0a54-4762-9afc-9a4dd61a3c59"> | <img width="500px" alt="item 29 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/e447e0f9-2b11-452b-8213-faa569d032f3"> 
+| :---: | :---: |
+|[📚 Item 28 배열보다는 리스트를 사용하라] <br> [🎥 Item 28 발표 영상] | [📚 Item 29 이왕이면 제네릭 타입으로 만들라] <br> [🎥 Item 29 발표 영상]|
+
+[📚 Item 28 배열보다는 리스트를 사용하라]: https://github.com/uhanuu/effective-java/blob/main/Chapter_05/Item_28/%EB%B0%B0%EC%97%B4%EB%B3%B4%EB%8B%A4%EB%8A%94_%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC_%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC(%EC%9C%A0%ED%98%84%EC%9A%B0).md
+[🎥 Item 28 발표 영상]: https://youtu.be/_7_451I1AgA
+
+[📚 Item 29 이왕이면 제네릭 타입으로 만들라]: https://github.com/uhanuu/effective-java/blob/main/Chapter_05/Item_29/%EC%9D%B4%EC%99%95%EC%9D%B4%EB%A9%B4_%EC%A0%9C%EB%84%A4%EB%A6%AD_%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C_%EB%A7%8C%EB%93%A4%EB%9D%BC(%EA%B9%80%ED%98%95%EC%A3%BC).md
+[🎥 Item 29 발표 영상]: https://youtu.be/xJa8NyB96mM
+
+---
