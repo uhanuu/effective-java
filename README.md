@@ -300,7 +300,7 @@
 ---
 <br>
 
-## **10주차** ( 4 / 15 ~ 4 / 21 )
+## **10주차** ( 4 / 15 ~ 4 / 19 )
 
 > | Item 28 | Item 29 |
 > | :-:| :-: |
@@ -316,5 +316,25 @@
 
 [📚 Item 29 이왕이면 제네릭 타입으로 만들라]: https://github.com/uhanuu/effective-java/blob/main/Chapter_05/Item_29/%EC%9D%B4%EC%99%95%EC%9D%B4%EB%A9%B4_%EC%A0%9C%EB%84%A4%EB%A6%AD_%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C_%EB%A7%8C%EB%93%A4%EB%9D%BC(%EA%B9%80%ED%98%95%EC%A3%BC).md
 [🎥 Item 29 발표 영상]: https://youtu.be/xJa8NyB96mM
+
+---
+<br>
+
+## **11주차** ( 4 / 20 ~ 4 / 26 )
+
+> | Item 30 | Item 31 |
+> | :-:| :-: |
+> | 강철원 | 최준 |
+
+### 💎 발표자료
+<img width="500px" alt="item 30 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/c8215efa-15b0-49c8-8011-ec10511e9381"> | <img width="500px" alt="item 31 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/e61a9808-4262-48e5-80b8-04bd8fea74f2"> 
+| :---: | :---: |
+|[📚 Item 30 이왕이면 제네릭 메서드로 만들라] <br> [🎥 Item 30 발표 영상] | [📚 Item 31 한정적 와일드카드를 사용해 API 유연성을 높이라] <br> [🎥 Item 31 발표 영상]|
+
+[📚 Item 30 이왕이면 제네릭 메서드로 만들라]: https://github.com/uhanuu/effective-java/blob/main/Chapter_05/Item_30/%EC%9D%B4%EC%99%95%EC%9D%B4%EB%A9%B4_%EC%A0%9C%EB%84%A4%EB%A6%AD_%EB%A9%94%EC%84%9C%EB%93%9C%EB%A1%9C_%EB%A7%8C%EB%93%A4%EC%96%B4%EB%9D%BC(%EA%B0%95%EC%B2%A0%EC%9B%90).md
+[🎥 Item 30 발표 영상]: https://youtu.be/pAWNaO18L9U
+
+[📚 Item 31 한정적 와일드카드를 사용해 API 유연성을 높이라]: https://github.com/uhanuu/effective-java/blob/main/Chapter_05/Item_31/%ED%95%9C%EC%A0%95%EC%A0%81_%EC%99%80%EC%9D%BC%EB%93%9C%EC%B9%B4%EB%93%9C%EB%A5%BC_%EC%82%AC%EC%9A%A9%ED%95%B4_API_%EC%9C%A0%EC%97%B0%EC%84%B1%EC%9D%84_%EB%86%92%EC%9D%B4%EB%9D%BC(%EC%B5%9C%EC%A4%80).md
+[🎥 Item 31 발표 영상]: https://youtu.be/Wht97LRooWU
 
 ---
