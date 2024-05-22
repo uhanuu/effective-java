@@ -338,3 +338,21 @@
 [🎥 Item 31 발표 영상]: https://youtu.be/Wht97LRooWU
 
 ---
+<br>
+
+## **12주차** ( 4 / 27 ~ 5 / 2 )
+
+> | Item 32 | Item 33 |
+> | :-:| :-: |
+> | 유현우 | 김형주 |
+
+### 💎 발표자료
+<img width="500px" alt="item 32 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/8c1728d5-2a35-408c-aab9-1aeb1877dcb7"> | <img width="500px" alt="item 33 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/2f33104e-c509-4c3c-9c0f-3b275bfd1271"> 
+| :---: | :---: |
+|[📚 Item 32 제네릭과 가변인수를 함께 쓸 때는 신중하라] <br> [🎥 Item 32 발표 영상] | [📚 Item 33 타입 안전 이종 컨테이너를 고려하라] <br> [🎥 Item 33 발표 영상]|
+
+[📚 Item 32 제네릭과 가변인수를 함께 쓸 때는 신중하라]: https://github.com/uhanuu/effective-java/blob/main/Chapter_05/Item_32/%EC%A0%9C%EB%84%A4%EB%A6%AD%EA%B3%BC_%EA%B0%80%EB%B3%80%EC%9D%B8%EC%88%98%EB%A5%BC_%ED%95%A8%EA%BB%98_%EC%93%B8_%EB%95%8C%EB%8A%94_%EC%8B%A0%EC%A4%91%ED%95%98%EB%9D%BC(%EC%9C%A0%ED%98%84%EC%9A%B0).md
+[🎥 Item 32 발표 영상]: https://youtu.be/f34aYvCf8rU
+
+[📚 Item 33 타입 안전 이종 컨테이너를 고려하라]: https://github.com/uhanuu/effective-java/blob/main/Chapter_05/Item_33/%ED%83%80%EC%9E%85_%EC%95%88%EC%A0%84_%EC%9D%B4%EC%A2%85_%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EB%A5%BC_%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC(%EA%B9%80%ED%98%95%EC%A3%BC).md
+[🎥 Item 33 발표 영상]: https://youtu.be/wXBsBthj3bM
