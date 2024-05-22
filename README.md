@@ -340,7 +340,7 @@
 ---
 <br>
 
-## **12주차** ( 4 / 27 ~ 5 / 2 )
+## **12주차** ( 4 / 27 ~ 5 / 3 )
 
 > | Item 32 | Item 33 |
 > | :-:| :-: |
@@ -356,3 +356,23 @@
 
 [📚 Item 33 타입 안전 이종 컨테이너를 고려하라]: https://github.com/uhanuu/effective-java/blob/main/Chapter_05/Item_33/%ED%83%80%EC%9E%85_%EC%95%88%EC%A0%84_%EC%9D%B4%EC%A2%85_%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EB%A5%BC_%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC(%EA%B9%80%ED%98%95%EC%A3%BC).md
 [🎥 Item 33 발표 영상]: https://youtu.be/wXBsBthj3bM
+
+---
+<br>
+
+## **14주차** ( 5 / 11 ~ 5 / 17 )
+
+> | Item 36 | Item 37 |
+> | :-:| :-: |
+> | 유현우 | 김형주 |
+
+### 💎 발표자료
+<img width="500px" alt="item 36 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/0b8c5e4c-1d3f-41f9-b6c4-fd7203789956"> | <img width="500px" alt="item 37 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/68fb1d08-d4e2-43ed-9750-d7f60fc1665f"> 
+| :---: | :---: |
+|[📚 Item 36 비트 필드 대신 EnumSet을 사용하라] <br> [🎥 Item 36 발표 영상] | [📚 Item 37 ordinal 인덱싱 대신 EnumMap을 사용하라] <br> [🎥 Item 37 발표 영상]|
+
+[📚 Item 36 비트 필드 대신 EnumSet을 사용하라]: https://github.com/uhanuu/effective-java/blob/main/Chapter_06/Item_36/%EB%B9%84%ED%8A%B8_%ED%95%84%EB%93%9C_%EB%8C%80%EC%8B%A0_EnumSet%EC%9D%84_%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC(%EC%9C%A0%ED%98%84%EC%9A%B0).md
+[🎥 Item 36 발표 영상]: https://youtu.be/V3nXGFMZOGI
+
+[📚 Item 37 ordinal 인덱싱 대신 EnumMap을 사용하라]: https://github.com/uhanuu/effective-java/blob/main/Chapter_06/Item_37/ordinal_%EC%9D%B8%EB%8D%B1%EC%8B%B1_%EB%8C%80%EC%8B%A0_EnumMap%EC%9D%84_%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC(%EA%B9%80%ED%98%95%EC%A3%BC).md
+[🎥 Item 37 발표 영상]: https://youtu.be/GWzNZ75JkPI
