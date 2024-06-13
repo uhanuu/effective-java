@@ -4,7 +4,9 @@
 <br>
 
 ## 목차
-- [Chapter 02 : 객체 생성과 파괴](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_02)
+<details>
+  <summary><a href="https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_02">Chapter 02 : 객체 생성과 파괴</a></summary>
+
   - [Item 01 : 생성자 대신 정적 팩토리 메서드를 고려하라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_02/Item_01)
   - [Item 02 : 생성자에 매개변수가 많다면 빌더를 고려하라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_02/Item_02)
   - [Item 03 : private 생성자나 열거 타입으로 싱글톤임을 보증하라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_02/Item_03)
@@ -15,14 +17,22 @@
   - [Item 08 : finalizer와 cleaner 사용을 피하라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_02/Item_08)
   - [Item 09 : try-finally보다는 try-with-resources를 사용하라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_02/Item_09)
 
-- [Chapter 03 : 모든 객체의 공통 메서드](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_03)
+</details>
+
+<details>
+  <summary><a href="https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_03">Chapter 03 : 모든 객체의 공통 메서드</a></summary>
+
   - [Item 10 : equals는 일반 규약을 지켜 재정의하라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_03/Item_10)
   - [Item 11 : equals를 재정의하려거든 hashCode도 재정의하라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_03/Item_11)
   - [Item 12 : toString을 항상 재정의하라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_03/Item_12)
   - [Item 13 : clone 재정의는 주의해서 진행하라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_03/Item_13)
   - [Item 14 : Comparable을 구현할지 고려하라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_03/Item_14)
 
-- [Chapter 04 : 클래스와 인터페이스](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_04)
+</details>
+
+<details>
+  <summary><a href="https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_04">Chapter 04 : 클래스와 인터페이스</a></summary>
+
   - [Item 15 : 클래스와 멤버의 접근 권한을 최소화 하라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_04/Item_15)
   - [Item 16 : public 클래스에서는 public 필드가 아닌 접근자 메서드 사용하라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_04/Item_16)
   - [Item 17 : 변경 가능성을 최소화 하라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_04/Item_17)
@@ -35,9 +45,44 @@
   - [Item 24 : 멤버 클래스는 되도록 static으로 만들라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_04/Item_24)
   - [Item 25 : 톱레벨 클래스는 한 파일에 하나만 담으라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_04/Item_25)
 
-- [Chapter 05 : 제네릭](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_05)
+</details>
+
+<details>
+  <summary><a href="https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_05">Chapter 05 : 제네릭</a></summary>
+
   - [Item 26 : 로 타입은 사용하지 말라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_05/Item_26)
   - [Item 27 : 비검사 경고를 제거하라](https://github.com/Growth-Hub/Effective-Java/tree/main/Chapter_05/Item_27)
+  - [Item 28 : 배열보다는 리스트를 사용하라](https://github.com/uhanuu/effective-java/tree/main/Chapter_05/Item_28)
+  - [Item 29: 이왕이면 제네릭 타입으로 만들라](https://github.com/uhanuu/effective-java/tree/main/Chapter_05/Item_29)
+  - [Item 30: 이왕이면 제네릭 메서드로 만들라](https://github.com/uhanuu/effective-java/tree/main/Chapter_05/Item_30)
+  - [Item 31 : 한정적 와일드카드를 사용해 API 유연성을 높이라](https://github.com/uhanuu/effective-java/tree/main/Chapter_05/Item_31)
+  - [Item 32 : 제네릭과 가변인수를 함께 쓸 때는 신중하라](https://github.com/uhanuu/effective-java/tree/main/Chapter_05/Item_32)
+  - [Item 33 : 타입_안전_이종_컨테이너를_고려하라](https://github.com/uhanuu/effective-java/tree/main/Chapter_05/Item_33)
+
+</details>
+
+<details>
+  <summary><a href="https://github.com/uhanuu/effective-java/tree/main/Chapter_06">Chapter 06 : 열거 타입과 애너테이션</a></summary>
+
+  - [Item 34 : int_상수_대신_열거_타입을_사용하라](https://github.com/uhanuu/effective-java/tree/main/Chapter_06/Item_34)
+  - [Item 35 : ordinal 메서드 대신 인스턴스 필드를 사용하라](https://github.com/uhanuu/effective-java/tree/main/Chapter_06/Item_35)
+  - [Item 36 : 비트_필드_대신_EnumSet을_사용하라](https://github.com/uhanuu/effective-java/tree/main/Chapter_06/Item_36)
+  - [Item 37 : ordinal_인덱싱_대신_EnumMap을_사용하라](https://github.com/uhanuu/effective-java/tree/main/Chapter_06/Item_37)
+  - [Item 38 : 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라](https://github.com/uhanuu/effective-java/tree/main/Chapter_06/Item_38)
+  - [Item 39 : 명명 패턴보다 애너테이션을 사용하라](https://github.com/uhanuu/effective-java/tree/main/Chapter_06/Item_39)
+  - [Item 40 : 애너테이션을 일관되게 사용하라](https://github.com/uhanuu/effective-java/tree/main/Chapter_06/Item_40)
+  - [Item 41 : 정의하려는 것이 타입이라면 마커 인터페이스를 사용하라](https://github.com/uhanuu/effective-java/tree/main/Chapter_06/Item_41)
+
+</details>
+
+<details>
+  <summary><a href="https://github.com/uhanuu/effective-java/tree/main/Chapter_07">Chapter 07 : 람다와 스트림</a></summary>
+
+  - [Item 42 : 익명 클래스보다는 람다를 사용하라](https://github.com/uhanuu/effective-java/tree/main/Chapter_07/Item_42)
+  - [Item 43 : 람다보다는 메서드 참조를 사용하라](https://github.com/uhanuu/effective-java/tree/main/Chapter_07/Item_43)
+  - [Item 44 : 표준 함수형 인터페이스를 사용하라](https://github.com/uhanuu/effective-java/tree/main/Chapter_07/Item_44)
+
+</details>
 
 <br>
 
@@ -387,11 +432,11 @@
 > | 강철원 | 최준 |
 
 ### 💎 발표자료
-<img width="500px" alt="item 38 썸네일" src=""> | <img width="500px" alt="item 39 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/ae76854f-c70a-4fc1-a118-9c29ea771b6d"> 
+<img width="500px" alt="item 38 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/467e9327-50df-4a0f-b9a0-7aa2801e0e9e"> | <img width="500px" alt="item 39 썸네일" src="https://github.com/uhanuu/effective-java/assets/110734817/ae76854f-c70a-4fc1-a118-9c29ea771b6d"> 
 | :---: | :---: |
-|[📚 Item 38 ] <br> [🎥 Item 38 발표 영상] | [📚 Item 39 명명 패턴보다 애너테이션을 사용하라] <br> [🎥 Item 39 발표 영상]|
+|[📚 Item 38 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라] <br> [🎥 Item 38 발표 영상] | [📚 Item 39 명명 패턴보다 애너테이션을 사용하라] <br> [🎥 Item 39 발표 영상]|
 
-[📚 Item 38 ]:
+[📚 Item 38 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라]: https://github.com/uhanuu/effective-java/blob/main/Chapter_06/Item_38/%ED%99%95%EC%9E%A5%ED%95%A0_%EC%88%98_%EC%9E%88%EB%8A%94_%EC%97%B4%EA%B1%B0_%ED%83%80%EC%9E%85%EC%9D%B4_%ED%95%84%EC%9A%94%ED%95%98%EB%A9%B4_%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC_%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC(%EA%B0%95%EC%B2%A0%EC%9B%90).md
 [🎥 Item 38 발표 영상]: https://youtu.be/o6mVIvDQIPc
 
 [📚 Item 39 명명 패턴보다 애너테이션을 사용하라]: https://github.com/uhanuu/effective-java/blob/main/Chapter_06/Item_39/%EB%AA%85%EB%AA%85_%ED%8C%A8%ED%84%B4%EB%B3%B4%EB%8B%A4_%EC%95%A0%EB%84%88%ED%85%8C%EC%9D%B4%EC%85%98%EC%9D%84_%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC(%EC%B5%9C%EC%A4%80).md
