@@ -81,6 +81,20 @@
   - [Item 42 : 익명 클래스보다는 람다를 사용하라](https://github.com/uhanuu/effective-java/tree/main/Chapter_07/Item_42)
   - [Item 43 : 람다보다는 메서드 참조를 사용하라](https://github.com/uhanuu/effective-java/tree/main/Chapter_07/Item_43)
   - [Item 44 : 표준 함수형 인터페이스를 사용하라](https://github.com/uhanuu/effective-java/tree/main/Chapter_07/Item_44)
+  - [Item 45 : 스트림은 주의해서 사용하라](https://github.com/uhanuu/effective-java/tree/main/Chapter_07/Item_45)
+  - [Item 46 : 스트림에서는 부작용 없는 함수를 사용하라](https://github.com/uhanuu/effective-java/tree/main/Chapter_07/Item_46)
+  - [Item 47 : 반환 타입으로는 스트림보다 컬렉션이 낫다](https://github.com/uhanuu/effective-java/tree/main/Chapter_07/Item_47)
+  - [Item 48 : 스트림 병렬화는 주의해서 적용하라](https://github.com/uhanuu/effective-java/tree/main/Chapter_07/Item_48)
+  
+
+</details>
+
+<details>
+  <summary><a href="https://github.com/uhanuu/effective-java/tree/main/Chapter_08">Chapter 08 : 메서드</a></summary>
+
+  - [Item 49 : 매개변수가 유효한지 검사하라](https://github.com/uhanuu/effective-java/tree/main/Chapter_08/Item_49)
+  - [Item 52 : 다중정의는 신중히 사용하라](https://github.com/uhanuu/effective-java/tree/main/Chapter_08/Item_52)
+  - [Item 53 : 가변인수는 신중히 사용하라](https://github.com/uhanuu/effective-java/tree/main/Chapter_08/Item_53)
 
 </details>
 
@@ -481,3 +495,123 @@
 
 [📚 Item 43 람다보다는 메서드 참조를 사용하라]: https://github.com/uhanuu/effective-java/blob/main/Chapter_07/Item_43/%EB%9E%8C%EB%8B%A4%EB%B3%B4%EB%8B%A4%EB%8A%94_%EB%A9%94%EC%84%9C%EB%93%9C_%EC%B0%B8%EC%A1%B0%EB%A5%BC_%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC(%EC%B5%9C%EC%A4%80).md
 [🎥 Item 43 발표 영상]: https://youtu.be/yQGfBLEYwTs
+
+---
+<br>
+
+## **18주차** ( 6 / 8 ~ 6 / 14 )
+
+> | Item 44 | Item 45 |
+> | :-:| :-: |
+> | 유현우 | 김형주 |
+
+### 💎 발표자료
+<img width="500px" alt="item 42 썸네일" src=""> | <img width="500px" alt="item 43 썸네일" src=""> 
+| :---: | :---: |
+|[📚 Item 42 익명 클래스보다는 람다를 사용하라] <br> [🎥 Item 42 발표 영상] | [📚 Item 43 람다보다는 메서드 참조를 사용하라] <br> [🎥 Item 43 발표 영상]|
+
+[📚 Item 42 익명 클래스보다는 람다를 사용하라]: 
+[🎥 Item 42 발표 영상]: 
+
+[📚 Item 43 람다보다는 메서드 참조를 사용하라]:
+[🎥 Item 43 발표 영상]: 
+
+---
+<br>
+
+## **19주차** ( 6 / 15 ~ 6 / 21 )
+
+> | Item 46 | Item 47 |
+> | :-:| :-: |
+> | 유현우 | 김형주 |
+
+### 💎 발표자료
+<img width="500px" alt="item 42 썸네일" src=""> | <img width="500px" alt="item 43 썸네일" src=""> 
+| :---: | :---: |
+|[📚 Item 42 익명 클래스보다는 람다를 사용하라] <br> [🎥 Item 42 발표 영상] | [📚 Item 43 람다보다는 메서드 참조를 사용하라] <br> [🎥 Item 43 발표 영상]|
+
+[📚 Item 42 익명 클래스보다는 람다를 사용하라]: 
+[🎥 Item 42 발표 영상]: 
+
+[📚 Item 43 람다보다는 메서드 참조를 사용하라]:
+[🎥 Item 43 발표 영상]: 
+
+---
+<br>
+
+## **20주차** ( 6 / 22 ~ 6 / 28 )
+
+> | Item 48 | Item 49 |
+> | :-:| :-: |
+> | 유현우 | 김형주 |
+
+### 💎 발표자료
+<img width="500px" alt="item 42 썸네일" src=""> | <img width="500px" alt="item 43 썸네일" src=""> 
+| :---: | :---: |
+|[📚 Item 42 익명 클래스보다는 람다를 사용하라] <br> [🎥 Item 42 발표 영상] | [📚 Item 43 람다보다는 메서드 참조를 사용하라] <br> [🎥 Item 43 발표 영상]|
+
+[📚 Item 42 익명 클래스보다는 람다를 사용하라]: 
+[🎥 Item 42 발표 영상]: 
+
+[📚 Item 43 람다보다는 메서드 참조를 사용하라]:
+[🎥 Item 43 발표 영상]: 
+
+---
+<br>
+
+## **21주차** ( 6 / 29 ~ 7 / 5 )
+
+> | Item 48 | Item 49 |
+> | :-:| :-: |
+> | 유현우 | 김형주 |
+
+### 💎 발표자료
+<img width="500px" alt="item 42 썸네일" src=""> | <img width="500px" alt="item 43 썸네일" src=""> 
+| :---: | :---: |
+|[📚 Item 42 익명 클래스보다는 람다를 사용하라] <br> [🎥 Item 42 발표 영상] | [📚 Item 43 람다보다는 메서드 참조를 사용하라] <br> [🎥 Item 43 발표 영상]|
+
+[📚 Item 42 익명 클래스보다는 람다를 사용하라]: 
+[🎥 Item 42 발표 영상]: 
+
+[📚 Item 43 람다보다는 메서드 참조를 사용하라]:
+[🎥 Item 43 발표 영상]: 
+
+---
+<br>
+
+## **22주차** ( 7 / 6 ~ 7 / 12 )
+
+> | Item 48 | Item 49 |
+> | :-:| :-: |
+> | 유현우 | 김형주 |
+
+### 💎 발표자료
+<img width="500px" alt="item 42 썸네일" src=""> | <img width="500px" alt="item 43 썸네일" src=""> 
+| :---: | :---: |
+|[📚 Item 42 익명 클래스보다는 람다를 사용하라] <br> [🎥 Item 42 발표 영상] | [📚 Item 43 람다보다는 메서드 참조를 사용하라] <br> [🎥 Item 43 발표 영상]|
+
+[📚 Item 42 익명 클래스보다는 람다를 사용하라]: 
+[🎥 Item 42 발표 영상]: 
+
+[📚 Item 43 람다보다는 메서드 참조를 사용하라]:
+[🎥 Item 43 발표 영상]: 
+
+---
+<br>
+
+## **23주차** ( 7 / 13 ~ 7 / 19 )
+
+> | Item 48 | Item 49 |
+> | :-:| :-: |
+> | 유현우 | 김형주 |
+
+### 💎 발표자료
+<img width="500px" alt="item 42 썸네일" src=""> | <img width="500px" alt="item 43 썸네일" src=""> 
+| :---: | :---: |
+|[📚 Item 42 익명 클래스보다는 람다를 사용하라] <br> [🎥 Item 42 발표 영상] | [📚 Item 43 람다보다는 메서드 참조를 사용하라] <br> [🎥 Item 43 발표 영상]|
+
+[📚 Item 42 익명 클래스보다는 람다를 사용하라]: 
+[🎥 Item 42 발표 영상]: 
+
+[📚 Item 43 람다보다는 메서드 참조를 사용하라]:
+[🎥 Item 43 발표 영상]: 
